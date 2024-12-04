@@ -1,81 +1,98 @@
-# 👋 Hi, I'm B Madhusudan Yadav
+# 👋 Hi, I'm **B Madhusudan Yadav**  
 
-## 🚀 About Me
-- 🌟 **10+ years** of experience in **Angular, React, HTML, CSS, SCSS, and JavaScript**.
-- 💻 Passionate about building scalable, efficient, and user-friendly web applications.
-- 🎯 Specializing in UI/UX development, modern JavaScript frameworks, and clean code practices.
+## 🚀 About Me  
 
-## 🛠️ Tech Stack
-- **Frontend**: React, Angular, JavaScript (ES6+), HTML5, CSS3, SCSS
-- **Libraries & Tools**: Redux, TailwindCSS, Angular Material, Semantic UI, Material-UI, Bootstrap, RxJS
-- **Backend (Basics)**: Node.js, Express
-- **Version Control**: Git, GitHub
-- **Other Tools**: Webpack, Vite, Jest, Cypress
 
-## 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Madhusudan-Yadav&show_icons=true&theme=radical)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>🚀 About Me</h2>
+    <p>
+      🌟 <b>10+ years</b> of experience in <b>Angular, React, HTML, CSS, SCSS, and JavaScript</b>.
+      <br>
+      💻 Currently working at <b>Next Education India Pvt Ltd</b> on <b>React with MUI desktop and mobile applications</b>.
+      <br>
+      🎯 Passionate about building <b>student dashboards</b> and <b>customized high-chart visualizations</b> for better user engagement.
+      <br>
+      📧 <b>Reach me</b>: <a href="mailto:msy979@gmail.com">msy979@gmail.com</a>
+    </p>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/B-Madhusudan-Yadav/ecommerce-dashboard/main/assets/working-computer.svg" alt="Working on Computer" style="max-height: 200px;"/>
+  </div>
+</div>
 
----
 
-## 🌟 Featured Projects
-### 1. [E-commerce Dashboard](https://github.com/B-Madhusudan-Yadav/e-commerce-dashboard)
-A full-featured React + Redux-based admin dashboard for managing e-commerce data.
-- **Tech**: React, Redux, TailwindCSS, REST API
-
-### 2. [Real-Time Chat App](https://github.com/B-Madhusudan-Yadav/real-time-chat)
-A fully responsive Angular-based real-time chat application.
-- **Tech**: Angular, RxJS, WebSocket, SCSS
-
-### 3. [JavaScript Algorithm Visualizer](https://github.com/B-Madhusudan-Yadav/js-algo-visualizer)
-A visual representation of sorting algorithms, showcasing animations and complexity.
-- **Tech**: Vanilla JavaScript, HTML5, CSS3
 
 ---
 
-### 🚀 Featured Project Ideas for GitHub
-To strengthen your portfolio, here are some ideas you can implement:
+## 🛠️ Tech Stack  
 
-1. **Portfolio Website**  
-   A responsive and interactive portfolio using React or Angular.
-   - **Features**: Dynamic sections for experience, skills, and projects.
-   - **Deployment**: Host on GitHub Pages or Vercel.
+### **Frontend**  
+<div>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
+</div>
 
-2. **E-commerce Application**  
-   - Features: Product listing, cart, payment integration.
-   - **Tech**: React/Angular with Redux, TailwindCSS.
+### **Libraries & Tools**  
+<div>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/>
+</div>
 
-3. **Real-Time Dashboard**  
-   - **Description**: Showcase live data visualization using Chart.js/D3.js.
-   - **Features**: Interactive charts, dynamic filtering.
+### **Backend (Basics)**  
+<div>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+</div>
 
-4. **Blogging Platform**  
-   - Features: Markdown editor, user authentication.
-   - **Tech**: React/Node.js/Express.
+### **Version Control & Hosting**  
+<div>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</div>
 
-5. **Interactive Game**  
-   Build a browser-based game to showcase advanced JavaScript.
-   - **Example**: Chess or Sudoku solver.
+### **Other Tools**  
+<div>
+  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+</div>
 
 ---
 
-### Next Steps for Optimization
-1. **Pin Important Repositories**  
-   - Highlight the best projects on your profile.  
-   - Example: [E-commerce Dashboard](https://github.com/B-Madhusudan-Yadav/e-commerce-dashboard).
-
-2. **Add Demo Links**  
-   - Host live versions of your projects using platforms like Vercel, Netlify, or GitHub Pages.  
-   - Provide links in each project’s README.
-
-3. **Document Projects Well**  
-   - Add comprehensive README files with features, setup instructions, and screenshots for each repository.
-
-4. **Contribute to Open Source**  
-   - Engage in open-source projects to showcase collaboration and community involvement.
-
-5. **Maintain Activity**  
-   - Keep your profile active by committing regularly and exploring trending repositories.
+## 📈 My GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=B-Madhusudan-Yadav&show_icons=true&theme=radical)  
 
 ---
 
-Let me know if you'd like additional customization, detailed project guidance, or help setting up your profile!
+## 🌟 Featured Projects  
+
+### **1. [E-commerce Dashboard](https://github.com/B-Madhusudan-Yadav/e-commerce-dashboard)**  
+A full-featured React + Redux-based admin dashboard for managing e-commerce data.  
+- **Tech**: React, Redux, TailwindCSS, REST API  
+
+### **2. [Real-Time Chat App](https://github.com/B-Madhusudan-Yadav/real-time-chat)**  
+A fully responsive Angular-based real-time chat application.  
+- **Tech**: Angular, RxJS, WebSocket, SCSS  
+
+### **3. [Student Dashboard](https://github.com/B-Madhusudan-Yadav/student-dashboard)**  
+Interactive student dashboards using **React** and highly customized **Highcharts**.  
+- **Tech**: React, MUI, Highcharts  
+
+### **4. [JavaScript Algorithm Visualizer](https://github.com/B-Madhusudan-Yadav/js-algo-visualizer)**  
+A visual representation of sorting algorithms, showcasing animations and complexity.  
+- **Tech**: Vanilla JavaScript, HTML5, CSS3  
+
+---
+
+Let me know if you need further refinements! 🚀  
